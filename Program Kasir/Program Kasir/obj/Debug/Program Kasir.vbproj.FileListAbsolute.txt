@@ -1,0 +1,13 @@
+E:\Study UNSIA\8. Sabtu - Pemrograman Visual\VB\Program Kasir\Program Kasir\bin\Debug\Program Kasir.exe.config
+E:\Study UNSIA\8. Sabtu - Pemrograman Visual\VB\Program Kasir\Program Kasir\bin\Debug\Program Kasir.exe
+E:\Study UNSIA\8. Sabtu - Pemrograman Visual\VB\Program Kasir\Program Kasir\bin\Debug\Program Kasir.pdb
+E:\Study UNSIA\8. Sabtu - Pemrograman Visual\VB\Program Kasir\Program Kasir\bin\Debug\Program Kasir.xml
+E:\Study UNSIA\8. Sabtu - Pemrograman Visual\VB\Program Kasir\Program Kasir\obj\Debug\Program Kasir.vbproj.AssemblyReference.cache
+E:\Study UNSIA\8. Sabtu - Pemrograman Visual\VB\Program Kasir\Program Kasir\obj\Debug\Program Kasir.vbproj.SuggestedBindingRedirects.cache
+E:\Study UNSIA\8. Sabtu - Pemrograman Visual\VB\Program Kasir\Program Kasir\obj\Debug\Program_Kasir.Resources.resources
+E:\Study UNSIA\8. Sabtu - Pemrograman Visual\VB\Program Kasir\Program Kasir\obj\Debug\Program Kasir.vbproj.GenerateResource.cache
+E:\Study UNSIA\8. Sabtu - Pemrograman Visual\VB\Program Kasir\Program Kasir\obj\Debug\Program Kasir.vbproj.CoreCompileInputs.cache
+E:\Study UNSIA\8. Sabtu - Pemrograman Visual\VB\Program Kasir\Program Kasir\obj\Debug\Program Kasir.exe
+E:\Study UNSIA\8. Sabtu - Pemrograman Visual\VB\Program Kasir\Program Kasir\obj\Debug\Program Kasir.xml
+E:\Study UNSIA\8. Sabtu - Pemrograman Visual\VB\Program Kasir\Program Kasir\obj\Debug\Program Kasir.pdb
+E:\Study UNSIA\8. Sabtu - Pemrograman Visual\VB\Program Kasir\Program Kasir\obj\Debug\Program_Kasir.Frame3.resources
